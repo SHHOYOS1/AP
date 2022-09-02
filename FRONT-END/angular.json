@@ -90,15 +90,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css","FRONT-END\node_modules\bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": ["FRONT-END\node_modules/bootstrap/dist/js/bootstrap.js"]
           }
         }
       }
     }
   },
   "cli": {
-    "analytics": false
+    "analytics": "9a4895b6-66f1-4deb-8668-a8df847071e0"
   }
 }
